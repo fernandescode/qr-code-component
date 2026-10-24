@@ -36,8 +36,8 @@ Não é necessário instalar dependências.
 
 ## Links
 
-- **Repositório:** será adicionado após a publicação no GitHub.
-- **Site publicado:** será adicionado após a configuração do GitHub Pages.
+- **Repositório:** [GitHub — QR Code Component](https://github.com/fernandescode/qr-code-component)
+- **Site publicado:** [QR Code Component — GitHub Pages](https://fernandescode.github.io/qr-code-component/)
 - **Desafio:** [Frontend Mentor — QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Colaboração com IA
