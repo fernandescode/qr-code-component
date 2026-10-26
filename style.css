@@ -17,6 +17,7 @@ main {
 .card {
   box-sizing: border-box;
   width: 320px;
+  transform: translateY(15px);
   margin-left: auto;
   margin-right: auto;
   background-color: white;
