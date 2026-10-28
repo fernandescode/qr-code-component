@@ -46,4 +46,4 @@ Utilizei o ChatGPT como apoio ao aprendizado, para esclarecer conceitos de HTML 
 
 ## Autor
 
-José Roberto Fernandes de oliveira
+José Roberto Fernandes de Oliveira
